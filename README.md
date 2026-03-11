@@ -111,4 +111,4 @@ Este projeto foi desenvolvido para praticar:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Cauê** para estudo de programação e desenvolvimento web.
+Projeto desenvolvido por **Cauê Serra** para estudo de programação e desenvolvimento web.
